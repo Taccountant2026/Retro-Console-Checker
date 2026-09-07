@@ -1,0 +1,13 @@
+{
+  "name": "Retro Console Checker",
+  "short_name": "Console Checker",
+  "description": "Identify retro console models, compare hardware revisions and check compatibility, connections and common buying checks.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#020b2b",
+  "theme_color": "#020b2b",
+  "orientation": "any",
+  "categories": ["reference", "utilities", "entertainment"],
+  "lang": "en-GB"
+}
