@@ -1,0 +1,27 @@
+{
+  "packageId": "uk.retroreplay.consolechecker",
+  "host": "taccountant2026.github.io",
+  "name": "Retro Console Checker",
+  "launcherName": "Console Checker",
+  "display": "standalone",
+  "themeColor": "#020b2b",
+  "themeColorDark": "#020b2b",
+  "navigationColor": "#020b2b",
+  "navigationColorDark": "#020b2b",
+  "backgroundColor": "#020b2b",
+  "startUrl": "/Retro-Console-Checker/",
+  "webManifestUrl": "https://taccountant2026.github.io/Retro-Console-Checker/manifest.webmanifest",
+  "enableNotifications": false,
+  "generatorApp": "bubblewrap-cli",
+  "fallbackType": "customtabs",
+  "appVersionName": "1.0.0",
+  "appVersionCode": 1,
+  "minSdkVersion": 23,
+  "targetSdkVersion": 36,
+  "orientation": "default",
+  "fingerprints": [],
+  "assetLinks": {
+    "status": "pending-signing-certificate",
+    "note": "Add the SHA-256 app-signing certificate fingerprint from Google Play Console before production verification."
+  }
+}
