@@ -1,13 +1,20 @@
 {
+  "id": "./",
   "name": "Retro Console Checker",
   "short_name": "Console Checker",
-  "description": "Identify retro console models, compare hardware revisions and check compatibility, connections and common buying checks.",
-  "start_url": "./",
+  "description": "Identify retro console models, compare hardware revisions and check media, connections and buying checks.",
+  "start_url": "./?source=pwa",
   "scope": "./",
   "display": "standalone",
   "background_color": "#020b2b",
   "theme_color": "#020b2b",
   "orientation": "any",
   "categories": ["reference", "utilities", "entertainment"],
-  "lang": "en-GB"
+  "lang": "en-GB",
+  "prefer_related_applications": false,
+  "shortcuts": [
+    {"name":"Identify a console","short_name":"Identify","url":"./#identify"},
+    {"name":"My Collection","short_name":"Collection","url":"./#collection"},
+    {"name":"Compare consoles","short_name":"Compare","url":"./#compare"}
+  ]
 }
